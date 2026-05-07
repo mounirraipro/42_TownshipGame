@@ -4,116 +4,279 @@
   "slug": "township-game",
   "genre": "Simulation",
   "iframeUrl": "/game/index.html",
-
   "seo": {
-    "title": "Township Game – Free City Builder Online, No Download",
-    "description": "Play Township Game free in your browser — build your town, grow crops, and manage a thriving community. No download, no account needed. A relaxing sim for all ages.",
-    "keywords": ["Township Game", "township game online", "play township free", "free city builder browser", "online town building game", "farming simulation no download", "free simulation game browser"]
+    "title": "Township Game \u2013 Free City Builder Online, No Download",
+    "description": "Play Township Game free in your browser \u2014 build your town, grow crops, and manage a thriving community. No download, no account needed. A relaxing sim for all ages.",
+    "keywords": [
+      "Township Game",
+      "township game online",
+      "play township free",
+      "free city builder browser",
+      "online town building game",
+      "farming simulation no download",
+      "free simulation game browser"
+    ]
   },
-
   "homepage": {
     "heroHeadline": "Build Your Township. Play Free Online.",
-    "heroSubtitle": "Plant crops, construct buildings, and grow a thriving community from scratch. No download, no account — start building immediately.",
+    "heroSubtitle": "Plant crops, construct buildings, and grow a thriving community from scratch. No download, no account \u2014 start building immediately.",
     "lede": "Township Game is a free browser simulation where you design and manage a growing town, balancing farming, production, and community development at your own pace.",
     "stats": [
-      { "value": "100+", "label": "Buildings to Unlock" },
-      { "value": "30+",  "label": "Crop & Resource Types" },
-      { "value": "0",    "label": "Downloads Needed" },
-      { "value": "100%", "label": "Free Forever" }
+      {
+        "value": "100+",
+        "label": "Buildings to Unlock"
+      },
+      {
+        "value": "30+",
+        "label": "Crop & Resource Types"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Forever"
+      }
     ],
     "about": {
       "kicker": "What is Township Game?",
       "headline": "The simulation game that rewards thoughtful town planners.",
       "paragraph1": "Township Game is a free online simulation where you build a town from an empty plot of land, managing farms, factories, and community facilities in an interconnected production chain. Crops feed factories, factories produce goods, goods attract residents, and residents generate the income that funds the next expansion. Every decision about what to build and where ripples through the entire town economy.",
-      "paragraph2": "The game progresses through gradual feature unlocks — new building types, crop varieties, and production lines open as your town grows. There is no time pressure and no single correct layout: the design of your township is yours to determine. It runs entirely in the browser, loads on any device, and requires neither a download nor an account to begin."
+      "paragraph2": "The game progresses through gradual feature unlocks \u2014 new building types, crop varieties, and production lines open as your town grows. There is no time pressure and no single correct layout: the design of your township is yours to determine. It runs entirely in the browser, loads on any device, and requires neither a download nor an account to begin."
     },
     "howToPlay": {
       "headline": "Plant. Build. Grow.",
       "subheading": "Cultivate crops, manufacture goods, and expand your township from a single farm into a flourishing community."
     },
     "steps": [
-      { "icon": "folder",       "title": "Open the Game",       "desc": "Visit the Play page — Township Game loads in any modern browser instantly. No installation, no account, no waiting." },
-      { "icon": "eye",          "title": "Plan Your Layout",    "desc": "Before placing buildings, study the available land. Road access, proximity of farms to factories, and space for future expansion all affect how efficiently your town runs at higher levels." },
-      { "icon": "refresh",      "title": "Grow and Produce",    "desc": "Plant crops on your fields and harvest them into raw materials. Feed those materials into factories and mills to produce manufactured goods your community needs." },
-      { "icon": "puzzle",       "title": "Expand and Develop",  "desc": "Use income from goods and services to construct new residential buildings, community facilities, and production structures. Each expansion unlocks new possibilities in the town economy." },
-      { "icon": "check-circle", "title": "Build a Thriving Town", "desc": "Balance population growth, resource supply, and infrastructure to develop a self-sustaining community. Unlock decorations, parks, and special buildings as your township reaches new milestones." }
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Visit the Play page \u2014 Township Game loads in any modern browser instantly. No installation, no account, no waiting."
+      },
+      {
+        "icon": "eye",
+        "title": "Plan Your Layout",
+        "desc": "Before placing buildings, study the available land. Road access, proximity of farms to factories, and space for future expansion all affect how efficiently your town runs at higher levels."
+      },
+      {
+        "icon": "refresh",
+        "title": "Grow and Produce",
+        "desc": "Plant crops on your fields and harvest them into raw materials. Feed those materials into factories and mills to produce manufactured goods your community needs."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Expand and Develop",
+        "desc": "Use income from goods and services to construct new residential buildings, community facilities, and production structures. Each expansion unlocks new possibilities in the town economy."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Build a Thriving Town",
+        "desc": "Balance population growth, resource supply, and infrastructure to develop a self-sustaining community. Unlock decorations, parks, and special buildings as your township reaches new milestones."
+      }
     ],
     "categories": [
-      { "name": "Homestead",   "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
-      { "name": "Village",     "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
-      { "name": "Town",        "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
-      { "name": "City",        "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
-      { "name": "Metropolis",  "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+      {
+        "name": "Homestead",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Village",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Town",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "City",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Metropolis",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
     ],
     "features": [
-      { "icon": "bolt",   "title": "Instant Browser Play",      "desc": "No download or account required. Township Game opens in any modern browser and the first plot of land is ready to develop in under ten seconds." },
-      { "icon": "target", "title": "Deep Production Chains",    "desc": "Over 30 crop and resource types feed into an interconnected production system. Every expansion decision affects upstream supply and downstream demand across the whole town economy." },
-      { "icon": "device", "title": "Plays on Any Device",       "desc": "Fully responsive layout adapts to desktop, tablet, and mobile screens. Touch drag-and-drop on mobile; mouse controls on desktop. The same building experience on any screen size." },
-      { "icon": "image",  "title": "Charming Visual Style",     "desc": "Warm, detailed artwork makes each building type, crop stage, and community facility visually distinct — the town looks as good as it runs." },
-      { "icon": "shield", "title": "Safe for All Ages",         "desc": "No targeted advertising, no in-app purchases, and no account required. Family-friendly content with no violence, no social pressure, and no personal data collected." },
-      { "icon": "music",  "title": "Relaxing Ambient Soundtrack", "desc": "Gentle nature and community sounds create a calming backdrop that enhances the laid-back pacing of town management without becoming intrusive." }
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Play",
+        "desc": "No download or account required. Township Game opens in any modern browser and the first plot of land is ready to develop in under ten seconds."
+      },
+      {
+        "icon": "target",
+        "title": "Deep Production Chains",
+        "desc": "Over 30 crop and resource types feed into an interconnected production system. Every expansion decision affects upstream supply and downstream demand across the whole town economy."
+      },
+      {
+        "icon": "device",
+        "title": "Plays on Any Device",
+        "desc": "Fully responsive layout adapts to desktop, tablet, and mobile screens. Touch drag-and-drop on mobile; mouse controls on desktop. The same building experience on any screen size."
+      },
+      {
+        "icon": "image",
+        "title": "Charming Visual Style",
+        "desc": "Warm, detailed artwork makes each building type, crop stage, and community facility visually distinct \u2014 the town looks as good as it runs."
+      },
+      {
+        "icon": "shield",
+        "title": "Safe for All Ages",
+        "desc": "No targeted advertising, no in-app purchases, and no account required. Family-friendly content with no violence, no social pressure, and no personal data collected."
+      },
+      {
+        "icon": "music",
+        "title": "Relaxing Ambient Soundtrack",
+        "desc": "Gentle nature and community sounds create a calming backdrop that enhances the laid-back pacing of town management without becoming intrusive."
+      }
     ],
     "faq": [
-      { "q": "What is Township Game?",             "a": "Township Game is a free online simulation where you build and manage a growing town — planting crops, running factories, and developing community infrastructure in an interconnected economy." },
-      { "q": "Is Township Game free?",             "a": "Yes, completely free. There are no premium building packs, subscription tiers, or in-app purchases. The full game is accessible at no cost from the first session." },
-      { "q": "Does Township Game work on mobile?", "a": "Yes. The game uses touch controls for drag-and-drop building placement on mobile and tablet, and mouse controls on desktop. It adapts automatically to any screen size." },
-      { "q": "How many levels are there?",         "a": "The game features over 100 buildings to unlock across multiple development stages from Homestead to Metropolis. Progression is open-ended — there is always another feature or building type to discover." },
-      { "q": "Is Township Game safe for kids?",    "a": "Yes. The game contains no violence, no targeted advertising, and no account required. It is family-friendly content suitable for all ages and uses no personal data." },
-      { "q": "Do I need an account?",              "a": "No account is needed. Open the game and start placing buildings immediately. Progress is saved automatically in your browser's local storage." }
+      {
+        "q": "What is Township Game?",
+        "a": "Township Game is a free online simulation where you build and manage a growing town \u2014 planting crops, running factories, and developing community infrastructure in an interconnected economy."
+      },
+      {
+        "q": "Is Township Game free?",
+        "a": "Yes, completely free. There are no premium building packs, subscription tiers, or in-app purchases. The full game is accessible at no cost from the first session."
+      },
+      {
+        "q": "Does Township Game work on mobile?",
+        "a": "Yes. The game uses touch controls for drag-and-drop building placement on mobile and tablet, and mouse controls on desktop. It adapts automatically to any screen size."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "The game features over 100 buildings to unlock across multiple development stages from Homestead to Metropolis. Progression is open-ended \u2014 there is always another feature or building type to discover."
+      },
+      {
+        "q": "Is Township Game safe for kids?",
+        "a": "Yes. The game contains no violence, no targeted advertising, and no account required. It is family-friendly content suitable for all ages and uses no personal data."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No account is needed. Open the game and start placing buildings immediately. Progress is saved automatically in your browser's local storage."
+      }
     ],
     "cta": {
       "headline": "Your town is waiting to be built.",
-      "subtext": "Open Township Game now — no download, no sign-up, just creative city building in your browser."
+      "subtext": "Open Township Game now \u2014 no download, no sign-up, just creative city building in your browser."
     }
   },
-
   "playPage": {
-    "howItWorksSubtitle": "Plant crops, feed your factories, and develop a growing town at your own pace — no time limits, no pressure.",
+    "howItWorksSubtitle": "Plant crops, feed your factories, and develop a growing town at your own pace \u2014 no time limits, no pressure.",
     "steps": [
-      { "title": "Start With the Fields",   "desc": "Your first structures should be crop fields. Without a reliable supply of raw materials — wheat, corn, vegetables — the factories and mills that produce finished goods cannot operate. Build more fields than you think you need; production chains always demand more input than beginners expect." },
-      { "title": "Connect the Supply Chain", "desc": "Build mills and bakeries near your fields. Build factories near your resource stockpiles. The shorter the path between production stages, the more efficiently your town operates. Poor layout creates bottlenecks that slow the entire economy at higher population levels." },
-      { "title": "Grow Your Community",     "desc": "Construct residential buildings to grow your population, then build the community services those residents need — schools, clinics, parks. A well-served community generates more income per resident, funding faster expansion than a large but underserved population." }
+      {
+        "title": "Start With the Fields",
+        "desc": "Your first structures should be crop fields. Without a reliable supply of raw materials \u2014 wheat, corn, vegetables \u2014 the factories and mills that produce finished goods cannot operate. Build more fields than you think you need; production chains always demand more input than beginners expect."
+      },
+      {
+        "title": "Connect the Supply Chain",
+        "desc": "Build mills and bakeries near your fields. Build factories near your resource stockpiles. The shorter the path between production stages, the more efficiently your town operates. Poor layout creates bottlenecks that slow the entire economy at higher population levels."
+      },
+      {
+        "title": "Grow Your Community",
+        "desc": "Construct residential buildings to grow your population, then build the community services those residents need \u2014 schools, clinics, parks. A well-served community generates more income per resident, funding faster expansion than a large but underserved population."
+      }
     ]
   },
-
   "faqPage": {
     "items": [
-      { "q": "Is Township Game really free?",         "a": "Yes, entirely free. There are no hidden charges, premium unlocks, or subscription fees. Every building, crop type, and game feature is accessible without any payment at any point." },
-      { "q": "What devices can I play on?",            "a": "Township Game runs in any modern browser — Chrome, Safari, Firefox, Edge — on desktop, tablet, and mobile. No app download is required on any platform." },
-      { "q": "How does the game work?",                "a": "You develop a town from empty land by planting crops, feeding production facilities with harvested materials, manufacturing goods, and using income from those goods to construct residential buildings and community infrastructure. The town economy is an interconnected system where every building decision affects the rest." },
-      { "q": "How many levels are there?",             "a": "The game has five development tiers from Homestead to Metropolis, with over 100 buildings to unlock across them. Progression is open-ended and driven by the player's pace of development rather than time gates." },
-      { "q": "Can I play offline?",                    "a": "Once Township Game has loaded in your browser, it continues to run if the connection drops. An initial internet connection is required to load the page the first time." },
-      { "q": "Is my progress saved?",                  "a": "Progress is saved automatically in your browser's local storage. Your town layout, unlocked buildings, and resource stockpiles are preserved between sessions on the same browser and device." },
-      { "q": "Is Township Game safe for children?",    "a": "Yes. The game contains no violence, no chat features, no targeted advertising, and no account or personal information requirement. It is family-friendly content appropriate for all ages." },
-      { "q": "Do I need to create an account?",        "a": "No. There is no registration or login of any kind. Open the site and start building your town immediately without providing any personal information." }
+      {
+        "q": "Is Township Game really free?",
+        "a": "Yes, entirely free. There are no hidden charges, premium unlocks, or subscription fees. Every building, crop type, and game feature is accessible without any payment at any point."
+      },
+      {
+        "q": "What devices can I play on?",
+        "a": "Township Game runs in any modern browser \u2014 Chrome, Safari, Firefox, Edge \u2014 on desktop, tablet, and mobile. No app download is required on any platform."
+      },
+      {
+        "q": "How does the game work?",
+        "a": "You develop a town from empty land by planting crops, feeding production facilities with harvested materials, manufacturing goods, and using income from those goods to construct residential buildings and community infrastructure. The town economy is an interconnected system where every building decision affects the rest."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "The game has five development tiers from Homestead to Metropolis, with over 100 buildings to unlock across them. Progression is open-ended and driven by the player's pace of development rather than time gates."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "Once Township Game has loaded in your browser, it continues to run if the connection drops. An initial internet connection is required to load the page the first time."
+      },
+      {
+        "q": "Is my progress saved?",
+        "a": "Progress is saved automatically in your browser's local storage. Your town layout, unlocked buildings, and resource stockpiles are preserved between sessions on the same browser and device."
+      },
+      {
+        "q": "Is Township Game safe for children?",
+        "a": "Yes. The game contains no violence, no chat features, no targeted advertising, and no account or personal information requirement. It is family-friendly content appropriate for all ages."
+      },
+      {
+        "q": "Do I need to create an account?",
+        "a": "No. There is no registration or login of any kind. Open the site and start building your town immediately without providing any personal information."
+      }
     ]
   },
-
   "howToPlayPage": {
-    "intro": "Township Game is a browser simulation built around a production chain: crops become raw materials, raw materials become manufactured goods, goods generate income, and income funds the next expansion. Understanding how these stages connect — and how to balance production capacity at each stage as your town grows — is what distinguishes players who build thriving communities from those who constantly run short of resources.",
+    "intro": "Township Game is a browser simulation built around a production chain: crops become raw materials, raw materials become manufactured goods, goods generate income, and income funds the next expansion. Understanding how these stages connect \u2014 and how to balance production capacity at each stage as your town grows \u2014 is what distinguishes players who build thriving communities from those who constantly run short of resources.",
     "steps": [
-      { "title": "Build Production Before Population", "desc": "The instinct to build houses first is natural but counterproductive. Residents need goods and services — without the production capacity to supply them, your town generates little income regardless of population size. Build at least three fully operational production chains before constructing residential areas." },
-      { "title": "Plan Road Access",                   "desc": "Every building in Township Game needs road access to function. Plan your road network before placing buildings — a meandering road layout creates dead-end clusters that block later expansion. Grid layouts are efficient for early-game density; radial layouts work better when the town is large and multiple districts need central access." },
-      { "title": "Balance Input and Output",           "desc": "If factories are consistently idle, add more fields and processing facilities to increase input supply. If stockpiles of raw materials are overflowing and finished goods are scarce, add more factories. Reading the flow of materials through your town and adjusting accordingly is the primary management skill the game develops." }
+      {
+        "title": "Build Production Before Population",
+        "desc": "The instinct to build houses first is natural but counterproductive. Residents need goods and services \u2014 without the production capacity to supply them, your town generates little income regardless of population size. Build at least three fully operational production chains before constructing residential areas."
+      },
+      {
+        "title": "Plan Road Access",
+        "desc": "Every building in Township Game needs road access to function. Plan your road network before placing buildings \u2014 a meandering road layout creates dead-end clusters that block later expansion. Grid layouts are efficient for early-game density; radial layouts work better when the town is large and multiple districts need central access."
+      },
+      {
+        "title": "Balance Input and Output",
+        "desc": "If factories are consistently idle, add more fields and processing facilities to increase input supply. If stockpiles of raw materials are overflowing and finished goods are scarce, add more factories. Reading the flow of materials through your town and adjusting accordingly is the primary management skill the game develops."
+      }
     ],
     "mechanic": {
       "title": "The Production Chain",
-      "desc": "Township Game's economy is built on multi-stage production chains. Wheat from fields goes to a mill to become flour. Flour goes to a bakery to become bread. Bread is sold to residents for income. But residents also need clothing, tools, and entertainment — each requiring its own input chain stretching back to fields and mines. As the town grows, managing multiple parallel chains simultaneously becomes the central challenge. Expanding one chain without expanding the others creates imbalances that slow the whole economy. The most efficient towns are those where every chain runs at close to equal throughput."
+      "desc": "Township Game's economy is built on multi-stage production chains. Wheat from fields goes to a mill to become flour. Flour goes to a bakery to become bread. Bread is sold to residents for income. But residents also need clothing, tools, and entertainment \u2014 each requiring its own input chain stretching back to fields and mines. As the town grows, managing multiple parallel chains simultaneously becomes the central challenge. Expanding one chain without expanding the others creates imbalances that slow the whole economy. The most efficient towns are those where every chain runs at close to equal throughput."
     },
-    "difficultyProgression": "Homestead level introduces the basic farm-to-factory chain with a small plot and a limited set of crops. Village level adds a second production tier, requiring players to manage two parallel chains for the first time. Town level unlocks industrial buildings that require multiple inputs, creating the first genuine supply chain management challenges. City level introduces community service buildings with their own resource demands, competing with production for the same land and income. Metropolis level presents a fully integrated economy where expanding any single sector requires coordinated investment across multiple others — every decision has second-order effects on the rest of the town.",
+    "difficultyProgression": "Homestead level introduces the basic farm-to-factory chain with a small plot and a limited set of crops. Village level adds a second production tier, requiring players to manage two parallel chains for the first time. Town level unlocks industrial buildings that require multiple inputs, creating the first genuine supply chain management challenges. City level introduces community service buildings with their own resource demands, competing with production for the same land and income. Metropolis level presents a fully integrated economy where expanding any single sector requires coordinated investment across multiple others \u2014 every decision has second-order effects on the rest of the town.",
     "tips": [
-      { "title": "Plan Before You Place",        "desc": "Placed buildings in Township Game cannot be moved without cost. Before placing any structure, identify where the road connection will go, what buildings will surround it, and how it will be supplied. Five seconds of planning before each placement prevents the expensive restructuring that comes from a poorly considered early layout." },
-      { "title": "Never Run Empty Fields",       "desc": "Idle fields generate nothing. Immediately after harvesting, replant. The time crops take to grow is the rate-limiting factor in most production chains, so maximising field uptime is the single most reliable way to increase output without building additional structures." },
-      { "title": "Prioritise Income Buildings",  "desc": "Not all buildings generate equal income per tile of land used. Markets and commercial buildings typically generate more income per square than pure residential. Prioritise income-generating structures when expanding, and add residential capacity to match the community services you can already support — not in advance of them." },
-      { "title": "Expand Slowly and Stably",     "desc": "Rapid expansion that outpaces production creates resource shortfalls at every stage. A town of 500 residents with a stable, surplus-generating economy is in a better position than a town of 2,000 residents with chronic shortages and idle factories. Grow production capacity before growing population, consistently." },
-      { "title": "Use Decorations Strategically", "desc": "Decorations and parks are not cosmetic extras — they increase the happiness rating of nearby residential buildings, which improves income from those buildings. Placing a park in the centre of a residential cluster has measurable economic returns. Budget for decorations as part of the expansion plan rather than treating them as optional after everything else is built." }
+      {
+        "title": "Plan Before You Place",
+        "desc": "Placed buildings in Township Game cannot be moved without cost. Before placing any structure, identify where the road connection will go, what buildings will surround it, and how it will be supplied. Five seconds of planning before each placement prevents the expensive restructuring that comes from a poorly considered early layout."
+      },
+      {
+        "title": "Never Run Empty Fields",
+        "desc": "Idle fields generate nothing. Immediately after harvesting, replant. The time crops take to grow is the rate-limiting factor in most production chains, so maximising field uptime is the single most reliable way to increase output without building additional structures."
+      },
+      {
+        "title": "Prioritise Income Buildings",
+        "desc": "Not all buildings generate equal income per tile of land used. Markets and commercial buildings typically generate more income per square than pure residential. Prioritise income-generating structures when expanding, and add residential capacity to match the community services you can already support \u2014 not in advance of them."
+      },
+      {
+        "title": "Expand Slowly and Stably",
+        "desc": "Rapid expansion that outpaces production creates resource shortfalls at every stage. A town of 500 residents with a stable, surplus-generating economy is in a better position than a town of 2,000 residents with chronic shortages and idle factories. Grow production capacity before growing population, consistently."
+      },
+      {
+        "title": "Use Decorations Strategically",
+        "desc": "Decorations and parks are not cosmetic extras \u2014 they increase the happiness rating of nearby residential buildings, which improves income from those buildings. Placing a park in the centre of a residential cluster has measurable economic returns. Budget for decorations as part of the expansion plan rather than treating them as optional after everything else is built."
+      }
     ]
   },
-
   "blog": {
     "headline": "Guides &amp; Strategy",
     "subheading": "Town planning tips, production guides, and layout strategies for Township Game builders.",
-    "introParagraph": "Whether you are placing your first fields or trying to break through the City development tier, these guides cover production chain management, layout planning, and the town development principles that separate thriving townships from resource-starved ones. Each article is practical and specific — designed to improve your next session, not just describe what the game is.",
+    "introParagraph": "Whether you are placing your first fields or trying to break through the City development tier, these guides cover production chain management, layout planning, and the town development principles that separate thriving townships from resource-starved ones. Each article is practical and specific \u2014 designed to improve your next session, not just describe what the game is.",
     "posts": [
       {
         "slug": "getting-started",
@@ -122,33 +285,33 @@
         "category": "Guide",
         "readTime": "5 min read",
         "date": "2026-01-01",
-        "icon": "🗺️",
+        "icon": "\ud83d\uddfa\ufe0f",
         "sections": [
           {
             "heading": "What Is Township Game?",
             "paragraphs": [
               "Township Game is a free browser simulation where you develop a town from empty land into a thriving community. The core mechanic is a production chain: crops grow in fields, raw materials are processed in mills and workshops, finished goods are distributed to residents, and the income from those goods funds expansion. Every building fits somewhere in this chain.",
-              "Unlike action games, there is no urgency and no combat. Township rewards thoughtful planning, patient management of production flows, and creative layout decisions. The town you build reflects your priorities and preferences — there is no single correct design, only better and worse solutions to the challenge of balancing supply and demand as the community grows."
+              "Unlike action games, there is no urgency and no combat. Township rewards thoughtful planning, patient management of production flows, and creative layout decisions. The town you build reflects your priorities and preferences \u2014 there is no single correct design, only better and worse solutions to the challenge of balancing supply and demand as the community grows."
             ]
           },
           {
             "heading": "How to Open the Game",
             "paragraphs": [
-              "Visit township-game.online on any device. The game loads in your browser with no installation and no account required. On desktop, click to place buildings and drag the map to navigate. On mobile, tap to select and drag to move the view. The building menu is organised by category — farm buildings, production facilities, residential, and community services — making it straightforward to find what you need.",
-              "Progress is saved automatically to your browser's local storage. Your town will be exactly as you left it the next time you visit from the same browser and device. There is no energy system or session limit — build for as long as you want in each sitting."
+              "Visit township-game.online on any device. The game loads in your browser with no installation and no account required. On desktop, click to place buildings and drag the map to navigate. On mobile, tap to select and drag to move the view. The building menu is organised by category \u2014 farm buildings, production facilities, residential, and community services \u2014 making it straightforward to find what you need.",
+              "Progress is saved automatically to your browser's local storage. Your town will be exactly as you left it the next time you visit from the same browser and device. There is no energy system or session limit \u2014 build for as long as you want in each sitting."
             ]
           },
           {
             "heading": "Your First Five Minutes",
             "paragraphs": [
-              "The first action in Township Game should be placing crop fields rather than buildings. Fields take time to grow, so starting them early means your first harvest arrives sooner. Place four to six fields in a cluster with road access from the start — you will need more capacity than seems obvious once the production chain starts running.",
-              "Once the first harvest is ready, build a mill or processing facility to convert raw crops into materials. Keep a direct road connection between the fields and the processing building — the shorter the supply route, the more efficiently goods move. Do not build residential buildings yet. Your town cannot support residents without goods to sell them, and building houses before production capacity is ready creates an income shortfall that is difficult to recover from."
+              "The first action in Township Game should be placing crop fields rather than buildings. Fields take time to grow, so starting them early means your first harvest arrives sooner. Place four to six fields in a cluster with road access from the start \u2014 you will need more capacity than seems obvious once the production chain starts running.",
+              "Once the first harvest is ready, build a mill or processing facility to convert raw crops into materials. Keep a direct road connection between the fields and the processing building \u2014 the shorter the supply route, the more efficiently goods move. Do not build residential buildings yet. Your town cannot support residents without goods to sell them, and building houses before production capacity is ready creates an income shortfall that is difficult to recover from."
             ]
           },
           {
             "heading": "Ready to Play?",
             "paragraphs": [
-              "Head to the Play page and start building. The early stages of the game are generous with land and forgiving of layout mistakes — use them to experiment and get comfortable with how the production chain works. Each new building type you unlock adds another layer of depth. Focus on understanding how each building connects to the others, and the more complex stages of town development will feel like natural growth rather than sudden complexity."
+              "Head to the Play page and start building. The early stages of the game are generous with land and forgiving of layout mistakes \u2014 use them to experiment and get comfortable with how the production chain works. Each new building type you unlock adds another layer of depth. Focus on understanding how each building connects to the others, and the more complex stages of town development will feel like natural growth rather than sudden complexity."
             ]
           }
         ]
@@ -160,7 +323,7 @@
         "category": "Strategy",
         "readTime": "7 min read",
         "date": "2026-01-05",
-        "icon": "💡",
+        "icon": "\ud83d\udca1",
         "sections": [
           {
             "heading": "Master the Fundamentals",
@@ -179,8 +342,8 @@
           {
             "heading": "Recognise Patterns Early",
             "paragraphs": [
-              "After building through a few development tiers, recurring patterns in resource demand become visible. Every time a new residential building type unlocks, it creates new demand for a specific production good that was not previously required in large quantities. Anticipate this demand before building the residential expansion — have the supply chain producing the required good before adding the population that needs it.",
-              "The same applies to production bottlenecks. If a specific processed material is consistently running low, the bottleneck is almost always at the field or extraction stage, not the processing stage. Adding more mills when the fields are already running at full capacity does nothing — trace the shortage back to its source."
+              "After building through a few development tiers, recurring patterns in resource demand become visible. Every time a new residential building type unlocks, it creates new demand for a specific production good that was not previously required in large quantities. Anticipate this demand before building the residential expansion \u2014 have the supply chain producing the required good before adding the population that needs it.",
+              "The same applies to production bottlenecks. If a specific processed material is consistently running low, the bottleneck is almost always at the field or extraction stage, not the processing stage. Adding more mills when the fields are already running at full capacity does nothing \u2014 trace the shortage back to its source."
             ]
           },
           {
@@ -199,34 +362,34 @@
         "category": "Science",
         "readTime": "6 min read",
         "date": "2026-01-10",
-        "icon": "🧠",
+        "icon": "\ud83e\udde0",
         "sections": [
           {
             "heading": "Games and the Brain",
             "paragraphs": [
-              "Simulation games exercise systems thinking — the ability to understand how individual components interact within a larger structure and how changes to one element affect all the others. This is a rare and valuable cognitive skill that develops slowly through formal education but can be practised intuitively through well-designed simulations.",
+              "Simulation games exercise systems thinking \u2014 the ability to understand how individual components interact within a larger structure and how changes to one element affect all the others. This is a rare and valuable cognitive skill that develops slowly through formal education but can be practised intuitively through well-designed simulations.",
               "Township Game specifically develops production chain reasoning: if this is insufficient, what else will run short? If this is expanded, what else must expand to absorb the increase? Players who engage with these questions repeatedly develop a mental model of interconnected systems that transfers to logistics, project management, and economic reasoning in non-game contexts."
             ]
           },
           {
             "heading": "Problem-Solving",
             "paragraphs": [
-              "Every township development decision is a resource allocation problem with no single correct answer. Players must weigh competing priorities — fields versus factories, residential versus commercial, infrastructure versus production — under constraints of land, income, and time. This type of multi-constraint optimisation is among the most cognitively demanding and practically valuable problems a game can present.",
-              "The iterative nature of simulation games — where each decision creates a new state that presents new problems — also develops tolerance for complexity and comfort with ambiguous, evolving situations. Players learn that no decision is made in isolation, and that understanding second-order effects is as important as solving the immediate problem in front of them."
+              "Every township development decision is a resource allocation problem with no single correct answer. Players must weigh competing priorities \u2014 fields versus factories, residential versus commercial, infrastructure versus production \u2014 under constraints of land, income, and time. This type of multi-constraint optimisation is among the most cognitively demanding and practically valuable problems a game can present.",
+              "The iterative nature of simulation games \u2014 where each decision creates a new state that presents new problems \u2014 also develops tolerance for complexity and comfort with ambiguous, evolving situations. Players learn that no decision is made in isolation, and that understanding second-order effects is as important as solving the immediate problem in front of them."
             ]
           },
           {
             "heading": "Stress Relief",
             "paragraphs": [
               "Township Game is specifically designed for relaxed play. There are no enemies, no combat, no time pressure, and no failure states. The psychological experience of building a thriving community from nothing, at your own pace, produces a steady sense of progress and accomplishment that psychologists associate with intrinsic motivation and positive affect.",
-              "The absence of compulsive mechanics — no notification pressure, no energy timers, no social comparison — means the game supports genuine relaxation rather than the anxious engagement produced by notification-heavy mobile games. Players choose when to play and for how long, without being manipulated into sessions by external pressure. This makes it one of the better screen-time choices for players who want the benefits of engaged focus without the downsides of gamified anxiety."
+              "The absence of compulsive mechanics \u2014 no notification pressure, no energy timers, no social comparison \u2014 means the game supports genuine relaxation rather than the anxious engagement produced by notification-heavy mobile games. Players choose when to play and for how long, without being manipulated into sessions by external pressure. This makes it one of the better screen-time choices for players who want the benefits of engaged focus without the downsides of gamified anxiety."
             ]
           },
           {
             "heading": "Safe Screen Time",
             "paragraphs": [
-              "Township Game occupies the active, purposeful end of the screen time spectrum. Every session involves planning, decision-making, and problem-solving — not passive consumption. The brain is engaged throughout, generating decisions rather than receiving content. Research on game-based learning consistently finds that simulation games produce higher cognitive engagement than equivalent time spent on passive media.",
-              "For parents, Township Game represents a low-risk screen time choice. The content is entirely family-friendly, there is no social interaction with strangers, and the game does not use dark design patterns to extend session length against the player's interest. It is purposeful play that happens to be entertaining — a combination that is rarer than it should be."
+              "Township Game occupies the active, purposeful end of the screen time spectrum. Every session involves planning, decision-making, and problem-solving \u2014 not passive consumption. The brain is engaged throughout, generating decisions rather than receiving content. Research on game-based learning consistently finds that simulation games produce higher cognitive engagement than equivalent time spent on passive media.",
+              "For parents, Township Game represents a low-risk screen time choice. The content is entirely family-friendly, there is no social interaction with strangers, and the game does not use dark design patterns to extend session length against the player's interest. It is purposeful play that happens to be entertaining \u2014 a combination that is rarer than it should be."
             ]
           }
         ]
@@ -238,19 +401,19 @@
         "category": "Strategy",
         "readTime": "8 min read",
         "date": "2026-01-15",
-        "icon": "📈",
+        "icon": "\ud83d\udcc8",
         "sections": [
           {
             "heading": "Focus on Consistency",
             "paragraphs": [
-              "Improvement in Township Game comes from developing good planning habits that apply at every tier, not from memorising optimal layouts for specific stages. The decisions made at Homestead tier — how to route roads, how to balance field capacity against processing capacity, when to add population — establish patterns that either serve or hinder development through every subsequent tier.",
+              "Improvement in Township Game comes from developing good planning habits that apply at every tier, not from memorising optimal layouts for specific stages. The decisions made at Homestead tier \u2014 how to route roads, how to balance field capacity against processing capacity, when to add population \u2014 establish patterns that either serve or hinder development through every subsequent tier.",
               "Regular short sessions are more effective than occasional long ones for improving town planning skills. Twenty minutes of deliberate, planned building each day builds better spatial and systems intuition than a single long session where decisions are made quickly without reflection."
             ]
           },
           {
             "heading": "Analyse Your Mistakes",
             "paragraphs": [
-              "When resources run chronically short or income stalls despite a large population, do not expand before identifying the cause. Survey the production chain from output backwards: what finished good is in shortest supply? What intermediate material is bottlenecking that finished good? What raw input is in shortest supply for that intermediate material? The shortage is always at a specific point — find it before adding more buildings that feed a chain that is already overproducing at that stage.",
+              "When resources run chronically short or income stalls despite a large population, do not expand before identifying the cause. Survey the production chain from output backwards: what finished good is in shortest supply? What intermediate material is bottlenecking that finished good? What raw input is in shortest supply for that intermediate material? The shortage is always at a specific point \u2014 find it before adding more buildings that feed a chain that is already overproducing at that stage.",
               "Layout inefficiency is harder to see but equally consequential. If buildings are consistently operating below capacity despite sufficient input supply, road routing or proximity to suppliers is usually the issue. Rebuilding a section of road to reduce travel distance between linked buildings often improves throughput more effectively than adding entirely new production structures."
             ]
           },
@@ -258,14 +421,14 @@
             "heading": "Build a Strategy",
             "paragraphs": [
               "Before expanding to a new development tier, prepare a brief expansion plan: what new building types will unlock, what production chains will they require, what existing chains will need to scale up to support them, and what land will need to be cleared for the new construction. This planning reduces the reactive scrambling that characterises poorly managed tier transitions.",
-              "Specifically, identify the new demand that each unlocked building type creates before building it. Residential buildings that require a new type of finished good — clothing, electronics, luxury food — should not be built until that production chain is already running, not after. Building demand before supply creates chronic shortages that take many sessions to work through."
+              "Specifically, identify the new demand that each unlocked building type creates before building it. Residential buildings that require a new type of finished good \u2014 clothing, electronics, luxury food \u2014 should not be built until that production chain is already running, not after. Building demand before supply creates chronic shortages that take many sessions to work through."
             ]
           },
           {
             "heading": "Practice Regularly",
             "paragraphs": [
               "Return to the game after a short break and evaluate your town with fresh eyes. Production imbalances that became invisible through familiarity often become immediately apparent after a few days away. If fields are idle, replant immediately and build the habit of checking field status first in every session. If factories are idle, trace the missing input back to the field level.",
-              "Try rebuilding a section of the town with a different layout approach — rerouting a congested road corridor or consolidating a scattered industrial zone — and observe whether throughput improves. Deliberate experimentation with layouts that deviate from what worked before is the fastest path to developing spatial intuition for what efficient township design looks like at higher scales."
+              "Try rebuilding a section of the town with a different layout approach \u2014 rerouting a congested road corridor or consolidating a scattered industrial zone \u2014 and observe whether throughput improves. Deliberate experimentation with layouts that deviate from what worked before is the fastest path to developing spatial intuition for what efficient township design looks like at higher scales."
             ]
           }
         ]
@@ -277,27 +440,27 @@
         "category": "Family",
         "readTime": "6 min read",
         "date": "2026-01-20",
-        "icon": "👨‍👩‍👧",
+        "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
         "sections": [
           {
             "heading": "Is Township Game Safe for Children?",
             "paragraphs": [
-              "Yes. Township Game contains no violence, no combat, no inappropriate content, and no social features that expose children to other players. There is no chat system, no leaderboard, and no multiplayer component of any kind. The game runs entirely in the browser and requires no account creation — no personal data is collected from your child at any point.",
+              "Yes. Township Game contains no violence, no combat, no inappropriate content, and no social features that expose children to other players. There is no chat system, no leaderboard, and no multiplayer component of any kind. The game runs entirely in the browser and requires no account creation \u2014 no personal data is collected from your child at any point.",
               "There are no advertisements targeting children and no in-app purchases. Every building, crop type, and game feature is accessible at no cost from the start. Safe browser play with no external links, no data collection, and no interaction with strangers is built into the design of the game by default."
             ]
           },
           {
             "heading": "What Will My Child Learn?",
             "paragraphs": [
-              "Township Game develops systems thinking, production planning, and spatial reasoning — skills with strong correlations to academic performance in mathematics, science, and economics. Children learn to trace cause-and-effect relationships through multi-stage production chains, manage limited resources across competing priorities, and plan ahead to prevent the shortfalls that arise from reactive rather than anticipatory decision-making.",
-              "The game also develops patience and long-term thinking. Because crops take time to grow and factories take time to produce, children learn to plan their next action while waiting for the current one to complete. This forward-planning habit — doing something productive now to enable a future goal — is a genuinely valuable executive function skill that classroom instruction alone rarely develops as effectively as a well-designed simulation."
+              "Township Game develops systems thinking, production planning, and spatial reasoning \u2014 skills with strong correlations to academic performance in mathematics, science, and economics. Children learn to trace cause-and-effect relationships through multi-stage production chains, manage limited resources across competing priorities, and plan ahead to prevent the shortfalls that arise from reactive rather than anticipatory decision-making.",
+              "The game also develops patience and long-term thinking. Because crops take time to grow and factories take time to produce, children learn to plan their next action while waiting for the current one to complete. This forward-planning habit \u2014 doing something productive now to enable a future goal \u2014 is a genuinely valuable executive function skill that classroom instruction alone rarely develops as effectively as a well-designed simulation."
             ]
           },
           {
             "heading": "Tips for Healthy Screen Time",
             "paragraphs": [
               "Township Game has no notification mechanics, no energy timers, and no time-gated events designed to compel children to return at specific hours. Sessions begin and end completely at the player's discretion, with no residual pressure to continue. This makes it fundamentally different from the notification-heavy mobile games that are commonly associated with screen time concerns.",
-              "A useful session structure for younger children: play until one development milestone is reached — one new building constructed, one new crop type unlocked — then close the game. Discussing the decisions made and the results achieved adds a reflective dimension that increases learning value and keeps parents engaged with what their child is experiencing without requiring continuous screen monitoring."
+              "A useful session structure for younger children: play until one development milestone is reached \u2014 one new building constructed, one new crop type unlocked \u2014 then close the game. Discussing the decisions made and the results achieved adds a reflective dimension that increases learning value and keeps parents engaged with what their child is experiencing without requiring continuous screen monitoring."
             ]
           },
           {
@@ -310,5 +473,7 @@
         ]
       }
     ]
-  }
+  },
+  "embedUrl": "https://html5.gamemonetize.com/iojkoe68zyjra4dxu5itysdy88dzqxt6/",
+  "embedSource": "GameMonetize Farm Simulator Township Game"
 }
