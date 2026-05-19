@@ -471,6 +471,208 @@
             ]
           }
         ]
+      },
+      {
+        "slug": "township-production-chain-guide",
+        "title": "Township Game Production Chain Guide: How to Keep Crops, Factories, and Orders Moving",
+        "excerpt": "A practical Township Game guide to crop timing, factory queues, storage pressure, order planning, and steady town growth.",
+        "category": "Strategy",
+        "readTime": "13 min read",
+        "date": "2026-05-19",
+        "icon": "refresh",
+        "sections": [
+          {
+            "heading": "Think of Your Town as One Connected System",
+            "paragraphs": [
+              "Township Game becomes easier when you stop seeing farms, factories, houses, and orders as separate chores. They are one connected system. Crops feed production. Production fills orders. Orders fund new buildings. New buildings create more demand. If one part of the chain is ignored, the whole town starts to feel slow.",
+              "The best early habit is to ask what each action supports. Planting wheat is not just planting wheat. It may be preparing animal feed, filling a bakery queue, or setting up a future order. When every small action has a purpose, the town grows with less waiting and fewer storage problems.",
+              "This connected view also keeps the game relaxing. You do not need to rush every timer or chase every request immediately. You need a town rhythm that makes sense. Once the rhythm is clear, progress feels steady even when individual buildings are still waiting to finish.",
+              "A useful way to check your decision is to ask what the town will need ten minutes from now. If the answer is more crops, more storage, or a cleaner factory queue, then the next action should support that future need. Township Game rewards players who prepare before the shortage becomes obvious."
+            ]
+          },
+          {
+            "heading": "Keep Short Crops Active During Play",
+            "paragraphs": [
+              "Short crops are useful while you are actively playing because they turn attention into quick supply. If you know you will stay in the game for a few minutes, plant crops that finish soon and can immediately feed factories. This keeps your production chain moving instead of leaving fields idle.",
+              "Long crops are better before a break. Plant them when you are about to stop playing, then return to a full harvest later. Mixing short and long crops without a plan can create awkward gaps: too much of something you do not need and not enough of the one item blocking three orders.",
+              "A simple rule works well. During active play, grow what your next factory cycle needs. Before leaving, grow what takes longest or what you are always short on. This turns field management into a calm routine rather than a constant scramble.",
+              "This also makes the game easier to enjoy in short visits. You can open the town, make one practical improvement, and leave knowing the next session will start better. That kind of progress is quieter than a big unlock, but it is what keeps a simulation running smoothly over time."
+            ]
+          },
+          {
+            "heading": "Do Not Let Factories Sit Empty",
+            "paragraphs": [
+              "Idle factories are silent progress leaks. They do not look like a problem because nothing bad happens immediately, but every empty queue means future orders will take longer. Before collecting finished goods, check whether you already have the ingredients to start the next batch.",
+              "The strongest production habit is to queue before you spend. If your bakery can start bread, start it before using the last wheat on something else. If a dairy building needs milk, protect that milk until the queue is secure. Factory time is valuable because it continues working while you look elsewhere.",
+              "This does not mean every factory must run at maximum speed forever. It means your most important factories should have a job whenever possible. Prioritise buildings connected to common orders, long production times, or goods that feed other recipes.",
+              "As the town grows, keep comparing beauty, convenience, and production. A decision is strongest when it helps at least two of those goals. A road can make the town prettier and easier to scan. A factory move can improve production and reduce clutter. Those combined benefits are worth looking for."
+            ]
+          },
+          {
+            "heading": "Protect Ingredients That Unlock Several Goods",
+            "paragraphs": [
+              "Some ingredients are more important than they look because several recipes depend on them. When a resource feeds multiple factories, spending it casually can block a whole chain. In Township Game, the question is not only how much of an item you have, but how many future products need it.",
+              "Before filling a small order, check whether the same ingredient is needed for a higher-value item. If it is, you may want to wait. A quick order can feel productive while quietly delaying a better order behind it. Resource protection is one of the main differences between a busy town and an efficient one.",
+              "This habit becomes more important as the town grows. Early recipes are forgiving, but later production chains stack requirements. One missing base ingredient can stop two factories, which stops several orders, which delays the next expansion.",
+              "A useful way to check your decision is to ask what the town will need ten minutes from now. If the answer is more crops, more storage, or a cleaner factory queue, then the next action should support that future need. Township Game rewards players who prepare before the shortage becomes obvious."
+            ]
+          },
+          {
+            "heading": "Use Orders to Set Priorities",
+            "paragraphs": [
+              "The order board gives you a practical way to choose what matters next. Instead of producing randomly, look for orders that are close to ready, orders that unlock useful rewards, and orders that use goods you can replace easily. These should guide your queue choices.",
+              "Not every order deserves immediate attention. If an order asks for several slow items and gives a weak reward, let it wait while you build stock or complete easier requests. A strong town manager knows the difference between available work and good work.",
+              "Check orders in groups rather than one at a time. If three orders all need bakery goods, that tells you where the next production push should go. If several orders need crops you lack, fields are the bottleneck. Let the pattern decide the plan.",
+              "This also makes the game easier to enjoy in short visits. You can open the town, make one practical improvement, and leave knowing the next session will start better. That kind of progress is quieter than a big unlock, but it is what keeps a simulation running smoothly over time."
+            ]
+          },
+          {
+            "heading": "Avoid Storage Panic by Planning Exits",
+            "paragraphs": [
+              "Storage pressure is a normal part of town-building games. The mistake is treating full storage as an emergency every time it happens. A better approach is to plan exits for goods before storage fills. Know which goods can be sold, which orders can absorb extras, and which items should be saved.",
+              "If storage is tight, avoid producing random finished goods just because a factory is open. Finished goods often take more space and can be harder to use quickly. Produce what has a clear destination. Crops and base materials should also be managed with future recipes in mind.",
+              "A clean storage habit makes the whole game calmer. You spend less time dumping useful goods and more time directing them. When storage has a purpose, expansion feels like growth rather than clutter control.",
+              "As the town grows, keep comparing beauty, convenience, and production. A decision is strongest when it helps at least two of those goals. A road can make the town prettier and easier to scan. A factory move can improve production and reduce clutter. Those combined benefits are worth looking for."
+            ]
+          },
+          {
+            "heading": "Upgrade Around Bottlenecks",
+            "paragraphs": [
+              "When you can upgrade or expand, focus on bottlenecks first. A bottleneck is the part of town that repeatedly slows everything else. It may be field space, storage, a specific factory, or a production time that keeps holding orders back.",
+              "Do not upgrade only because a new option appears. Ask what problem the upgrade solves. More decoration may be satisfying, but if storage is full every session, storage deserves attention. A new production building may look exciting, but if fields cannot support it, the chain will still drag.",
+              "This problem-first upgrade style helps your town grow evenly. The goal is not to unlock everything as fast as possible. The goal is to make each unlock useful because the town around it can support the extra demand.",
+              "A useful way to check your decision is to ask what the town will need ten minutes from now. If the answer is more crops, more storage, or a cleaner factory queue, then the next action should support that future need. Township Game rewards players who prepare before the shortage becomes obvious."
+            ]
+          },
+          {
+            "heading": "Use Downtime for Long Recipes",
+            "paragraphs": [
+              "Long recipes are easiest when you schedule them around downtime. If a product takes a while, start it before leaving the game or before focusing on another area of the town. Returning to finished goods feels much better than returning to a factory that was waiting for you the whole time.",
+              "Keep a small list in your head of items that are slow but common. These are good candidates for overnight or between-session production. If you only start them when an order demands them, you will always feel behind. If you keep a light reserve, orders become easier to complete.",
+              "The key is not hoarding. It is preparation. One or two slow items in stock can save a session. Ten of the wrong slow item can clog storage. Build a reserve based on actual order patterns, not fear.",
+              "This also makes the game easier to enjoy in short visits. You can open the town, make one practical improvement, and leave knowing the next session will start better. That kind of progress is quieter than a big unlock, but it is what keeps a simulation running smoothly over time."
+            ]
+          },
+          {
+            "heading": "Let the Town Grow in Layers",
+            "paragraphs": [
+              "A healthy Township Game town grows in layers. First, fields and base production. Then factories that turn those goods into useful items. Then housing, community buildings, and decorations that make the town feel alive. If you skip the foundation, the upper layers become harder to support.",
+              "This layered approach also helps with layout. Put related buildings close enough that the town makes visual sense. Keep room for expansion near production areas. Avoid filling every open space with decorative pieces before you know where the next building category will need to fit.",
+              "Good layout is not only about beauty. It helps you read the town. When farms, factories, and community areas have clear zones, it is easier to check what needs attention and what can wait.",
+              "As the town grows, keep comparing beauty, convenience, and production. A decision is strongest when it helps at least two of those goals. A road can make the town prettier and easier to scan. A factory move can improve production and reduce clutter. Those combined benefits are worth looking for."
+            ]
+          },
+          {
+            "heading": "Build a Daily Production Routine",
+            "paragraphs": [
+              "A simple daily routine can carry your town a long way. Collect finished goods, check orders, identify the bottleneck, plant crops for the next production cycle, queue factories, then spend income on the upgrade that solves the clearest problem. This takes only a few minutes once it becomes familiar.",
+              "The routine should stay flexible. Some days the town needs crops. Some days it needs storage space. Some days it needs a long production push. The point is to make decisions in the right order so you are not constantly reacting to whichever timer finished most recently.",
+              "Township Game is most satisfying when growth feels earned and understandable. A good production chain gives you that feeling. You can see why the town is improving, where the next pressure point will appear, and what one useful action should happen next.",
+              "A useful way to check your decision is to ask what the town will need ten minutes from now. If the answer is more crops, more storage, or a cleaner factory queue, then the next action should support that future need. Township Game rewards players who prepare before the shortage becomes obvious."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "township-layout-expansion-tips",
+        "title": "Township Game Layout and Expansion Tips: How to Build a Town That Stays Easy to Manage",
+        "excerpt": "Learn how to plan Township Game roads, building zones, future space, decorations, and expansion choices without creating clutter.",
+        "category": "Guide",
+        "readTime": "13 min read",
+        "date": "2026-05-19",
+        "icon": "puzzle",
+        "sections": [
+          {
+            "heading": "Leave Room Before You Need It",
+            "paragraphs": [
+              "The biggest layout mistake in Township Game is using every open tile too early. Empty space can feel wasteful at the start, but it becomes valuable when new buildings unlock. If every area is already packed, each expansion turns into a messy rearrangement instead of a clean improvement.",
+              "Leave future corridors near farms, factories, and community buildings. You do not need to know every later unlock. You only need enough breathing room to add related structures without moving the whole town. A little unused space now prevents a lot of friction later.",
+              "This is especially helpful for players who enjoy decorative towns. Decoration looks better when it is placed around a functional structure, not used to hide a layout that stopped working. Give the town room to become attractive after it becomes readable.",
+              "A useful way to check your decision is to ask what the town will need ten minutes from now. If the answer is more crops, more storage, or a cleaner factory queue, then the next action should support that future need. Township Game rewards players who prepare before the shortage becomes obvious."
+            ]
+          },
+          {
+            "heading": "Build Around Clear Zones",
+            "paragraphs": [
+              "Zoning makes the town easier to manage. Keep farms near crop-focused production, factories in a readable work area, houses in a calmer residential section, and decorations where they support the mood of the town. Clear zones reduce visual noise.",
+              "A zoned town also helps you check progress quickly. When all production buildings are scattered, you waste attention moving around the map. When they sit in a clear area, you can collect, queue, and review needs in one pass. That saves time every session.",
+              "Do not make zoning too rigid. Some buildings may look better or function better outside their main area. The goal is clarity, not a perfect grid. If you can understand your town at a glance, the layout is doing its job.",
+              "This also makes the game easier to enjoy in short visits. You can open the town, make one practical improvement, and leave knowing the next session will start better. That kind of progress is quieter than a big unlock, but it is what keeps a simulation running smoothly over time."
+            ]
+          },
+          {
+            "heading": "Use Roads as Planning Lines",
+            "paragraphs": [
+              "Roads are more than decoration. They are planning lines that show how the town connects. A strong road layout creates natural blocks for housing, production, and services. A weak road layout grows randomly and becomes harder to expand cleanly.",
+              "Start with simple road shapes. Straight routes, small loops, and open blocks are easier to adjust than decorative spirals or cramped patterns. Once your town is stable, you can add personality. Early roads should support growth before they support style.",
+              "When expanding, extend roads first and buildings second. This keeps new areas connected to the existing town and helps you see how much space you really have. It is much easier to place buildings inside a road plan than to force roads around crowded buildings later.",
+              "As the town grows, keep comparing beauty, convenience, and production. A decision is strongest when it helps at least two of those goals. A road can make the town prettier and easier to scan. A factory move can improve production and reduce clutter. Those combined benefits are worth looking for."
+            ]
+          },
+          {
+            "heading": "Keep Farms Easy to Read",
+            "paragraphs": [
+              "Farms are the foundation of the production chain, so they should be easy to check. Group fields in a clean area where crop states are visible. If fields are scattered behind buildings or decorations, it becomes easier to forget harvests or plant the wrong crop mix.",
+              "A tidy farm area also makes crop planning faster. You can dedicate sections to short crops, long crops, or current order needs. The layout does not need labels if the pattern is obvious to you. A readable farm saves attention every time you open the game.",
+              "As the town grows, resist the urge to push farms into leftover corners. Fields may not look as exciting as new buildings, but they support almost everything. Give them a practical place in the town instead of treating them as temporary clutter.",
+              "A useful way to check your decision is to ask what the town will need ten minutes from now. If the answer is more crops, more storage, or a cleaner factory queue, then the next action should support that future need. Township Game rewards players who prepare before the shortage becomes obvious."
+            ]
+          },
+          {
+            "heading": "Place Factories With Queue Checks in Mind",
+            "paragraphs": [
+              "Factories should be placed where you can check them quickly. A beautiful factory district that takes too much scrolling or is hidden behind decorations will slow down your routine. The best production area is both attractive and convenient.",
+              "Group factories by how you use them. Buildings that feed each other should stay close. Common order producers should be easy to reach. Slow factories can sit slightly farther away if they need fewer checks, while high-use buildings deserve the most visible spaces.",
+              "This is a practical design choice. Township Game is more fun when production checks feel smooth. If a building is important enough to use every session, it should not be buried in the least readable part of the map.",
+              "This also makes the game easier to enjoy in short visits. You can open the town, make one practical improvement, and leave knowing the next session will start better. That kind of progress is quieter than a big unlock, but it is what keeps a simulation running smoothly over time."
+            ]
+          },
+          {
+            "heading": "Make Residential Areas Feel Intentional",
+            "paragraphs": [
+              "Housing can easily become filler if you place it only wherever a gap exists. A better approach is to make residential areas feel intentional. Use small blocks, roads, parks, and community buildings to create neighborhoods rather than scattered houses.",
+              "Intentional housing makes the town look more alive. It also helps you expand population without losing visual order. When a new residential building unlocks, you know where it belongs. That keeps the town from turning into a patchwork of emergency placements.",
+              "You do not need perfect symmetry. A little variation makes neighborhoods feel natural. The important thing is that homes have a recognizable place in the town and are not constantly interrupting production zones.",
+              "As the town grows, keep comparing beauty, convenience, and production. A decision is strongest when it helps at least two of those goals. A road can make the town prettier and easier to scan. A factory move can improve production and reduce clutter. Those combined benefits are worth looking for."
+            ]
+          },
+          {
+            "heading": "Use Decorations to Guide the Eye",
+            "paragraphs": [
+              "Decorations work best when they guide attention. A line of trees can separate farms from housing. A small park can mark the center of a neighborhood. Paths and decorative objects can make important buildings easier to notice. Decoration should clarify the town, not compete with it.",
+              "Avoid covering every empty tile with decoration just because space is available. Too many decorative items can make the map harder to read. Use them to create pauses and landmarks. A few well-placed details usually look better than a crowded field of unrelated objects.",
+              "This is especially important on mobile screens. Smaller displays need cleaner visual hierarchy. If decorations make it harder to find factories, crops, or orders, the town may look busy but play worse.",
+              "A useful way to check your decision is to ask what the town will need ten minutes from now. If the answer is more crops, more storage, or a cleaner factory queue, then the next action should support that future need. Township Game rewards players who prepare before the shortage becomes obvious."
+            ]
+          },
+          {
+            "heading": "Expand Toward the Next Problem",
+            "paragraphs": [
+              "Expansion should solve a problem. If production is crowded, expand near factories. If housing is cramped, open a residential area. If farms need room, protect a larger agricultural section. Random expansion creates random layout problems.",
+              "Before spending resources, decide what the new land is for. A named purpose makes placement easier. This will be the next factory row. This will be a housing block. This will stay open for future crops. Purpose turns empty land into a plan.",
+              "You can still adjust later. Township Game is flexible, and redesigning can be part of the fun. But each expansion works better when it starts with a clear job.",
+              "This also makes the game easier to enjoy in short visits. You can open the town, make one practical improvement, and leave knowing the next session will start better. That kind of progress is quieter than a big unlock, but it is what keeps a simulation running smoothly over time."
+            ]
+          },
+          {
+            "heading": "Redesign in Small Sections",
+            "paragraphs": [
+              "At some point, every growing town needs a redesign. Do it in sections. Move one production cluster, one residential block, or one farm area at a time. Trying to redesign the entire town at once can make it hard to remember why each piece was moved.",
+              "Small redesigns are easier to judge. After moving a factory area, play for a session and see whether it feels better. If it does, keep going. If not, adjust before changing the rest of the town. This keeps redesign from becoming overwhelming.",
+              "A slow redesign also protects function. The town can keep producing while you improve it. You do not need to pause progress just to make the layout cleaner.",
+              "As the town grows, keep comparing beauty, convenience, and production. A decision is strongest when it helps at least two of those goals. A road can make the town prettier and easier to scan. A factory move can improve production and reduce clutter. Those combined benefits are worth looking for."
+            ]
+          },
+          {
+            "heading": "Balance Beauty With Usefulness",
+            "paragraphs": [
+              "The best Township Game layouts are both useful and pleasant to look at. A perfectly efficient grid can feel cold. A purely decorative town can become awkward to manage. Aim for the middle: clear zones, practical roads, readable production, and enough decoration to make the town feel personal.",
+              "This balance is what keeps long-term play enjoyable. You are not only completing orders. You are shaping a place. When the town works well and looks like somewhere people could live, each expansion feels more satisfying.",
+              "A good layout does not need to be finished. It should be easy to continue. Leave room, keep zones readable, and make each new area solve a real need. That is how a small starting plot becomes a town you actually enjoy managing.",
+              "A useful way to check your decision is to ask what the town will need ten minutes from now. If the answer is more crops, more storage, or a cleaner factory queue, then the next action should support that future need. Township Game rewards players who prepare before the shortage becomes obvious."
+            ]
+          }
+        ]
       }
     ]
   },
